@@ -9,6 +9,10 @@
     "random",
     "test"
   ],
+  "files": [
+    "/cases/",
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jameskmonger/isaac-crypto-test-cases.git"
