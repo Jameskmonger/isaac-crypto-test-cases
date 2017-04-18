@@ -1,0 +1,22 @@
+{
+  "name": "isaac-crypto-test-cases",
+  "version": "1.0.0",
+  "description": "Test cases for an ISAAC random generator",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "isaac",
+    "random",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameskmonger/isaac-crypto-test-cases.git"
+  },
+  "author": "James Monger <jameskmonger@hotmail.co.uk> (http://jamesmonger.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/isaac-crypto-test-cases/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/isaac-crypto-test-cases#readme"
+}
